@@ -1,4 +1,4 @@
-Olá! eu sou o Maurício, Desenvolvelvedor front-end junior iniciante
+Olá! eu sou o Maurício, Desenvolvelvedor front-end junior 
 
 - 🔭 Apaixonado por programação
 - 🌱 Estudante de programação
@@ -45,5 +45,4 @@ Olá! eu sou o Maurício, Desenvolvelvedor front-end junior iniciante
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: José Gonçalves</p>
 </div>
