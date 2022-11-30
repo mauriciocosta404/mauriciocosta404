@@ -1,4 +1,4 @@
-Olá! eu sou o Maurício, Desenvolvelvedor front-end junior 
+Olá! eu sou o Maurício, Desenvolvelvedor front-end 
 
 - 🔭 Apaixonado por programação
 - 🌱 Estudante de programação
