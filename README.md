@@ -1,7 +1,6 @@
 Olá! eu sou o Maurício, Desenvolvelvedor front-end 
 
 - 🔭 Apaixonado por programação
-- 🌱 Estudante de programação
 
 <p align="center" style="border-radius:100%"></p>
 
