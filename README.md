@@ -4,12 +4,6 @@ Olá! eu sou o Maurício, Desenvolvelvedor front-end
 
 <p align="center" style="border-radius:100%"></p>
 
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
-
 <div align="center">
   <a href="https://github.com/menezescosta">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=menezescosta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
