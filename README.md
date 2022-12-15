@@ -16,7 +16,7 @@ Olá! eu sou o Maurício, Desenvolvelvedor front-end
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/a91f4f325bb66113bc7acedfb5c63e7c1f926e7f56af9f73a68c72d773ce0535/68747470733a2f2f76617374657272612e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30382f5461696c77696e642d696d672e706e67">
+  <img align="center" alt="CSS" height="30" width="30" src="https://camo.githubusercontent.com/a91f4f325bb66113bc7acedfb5c63e7c1f926e7f56af9f73a68c72d773ce0535/68747470733a2f2f76617374657272612e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30382f5461696c77696e642d696d672e706e67">
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
