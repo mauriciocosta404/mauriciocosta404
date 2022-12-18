@@ -41,5 +41,5 @@ Olá! eu sou o Maurício, Desenvolvelvedor front-end
 </div>
 
 <div align="center">
-  <p>Feito com ❤️ ao JavaScript.</p>
+  <p>Feito com am❤️r ao JavaScript.</p>
 </div>
