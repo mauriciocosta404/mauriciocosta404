@@ -1,4 +1,4 @@
-Olá! eu sou o Maurício Costa, 
+Olá! eu sou o Maurício Costa, Front-end Developer
 
 - 🔭 Apaixonado por programação
 
