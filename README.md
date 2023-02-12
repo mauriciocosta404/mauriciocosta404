@@ -5,10 +5,13 @@ Olá! eu sou o Maurício Costa, Front-end Developer
 <p align="center" style="border-radius:100%"></p>
 
 <div align="center">
-  <a href="https://github.com/menezescosta">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=menezescosta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menezescosta&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <div>
+    <a href="https://github.com/mauriciocosta404">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciocosta404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocosta404&layout=compact&langs_count=7&theme=algolia"/>
+</a>
+</div>
+
 </div>
 
 <div align="center" valign="top"><br>
