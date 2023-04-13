@@ -23,6 +23,7 @@ Olá! eu sou o Maurício Costa, Front-end Developer
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="nextjs" height="30" width="30" src="https://camo.githubusercontent.com/a7f600e3de1f0201721446c9ed6f4a236aaf22342e413acfc2be61cf913f6f40/68747470733a2f2f7777772e64727570616c2e6f72672f66696c65732f70726f6a6563742d696d616765732f6e6578746a732d69636f6e2d6461726b2d6261636b67726f756e642e706e67">
   <img align="center" alt="vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" alt="vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
