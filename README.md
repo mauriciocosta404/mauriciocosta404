@@ -44,5 +44,5 @@ Olá! eu sou o Maurício Costa, Front-end Developer
 </div>
 
 <div align="center">
-  <p>Feito com ❤️ ao JavaScript!</p>
+  <p>Feito com ❤️ ao JavaScript!!</p>
 </div>
