@@ -25,7 +25,6 @@ Olá! eu sou o Maurício Costa, desenvolvedor de software!
    <img align="center" alt="vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div><br>
