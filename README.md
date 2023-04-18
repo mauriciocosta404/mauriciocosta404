@@ -43,5 +43,5 @@ Olá! eu sou o Maurício Costa, desenvolvedor de software!
 </div>
 
 <div align="center">
-  <p>Feito com ❤️ ao JavaScript!</p>
+  <p>Feito com ❤️ ao JavaScript</p>
 </div>
