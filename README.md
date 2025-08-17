@@ -11,7 +11,6 @@ Olá! eu sou o Maurício Costa, desenvolvedor de software!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocosta404&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </div>
-
 </div>
 
 <div align="center" valign="top"><br>
